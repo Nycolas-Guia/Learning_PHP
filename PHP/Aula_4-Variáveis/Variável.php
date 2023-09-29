@@ -15,11 +15,11 @@ $y=0;
 //echo "seu numero é ", $y + $x;
 ?>
 
-<!--Essa merda ai de baixo linka com o Constante.php-->
+<!--Essa bomba ai de baixo linka com o Constante.php-->
 
 <form action="constante.php" method="get">
-x: <input type="number" name="x"><br>
-y: <input type="number" name="y"><br>
+Número 1: <input type="number" name=" "><br>
+Número 2: <input type="number" name=" "><br>
 <input type="submit">
 </form>
 
